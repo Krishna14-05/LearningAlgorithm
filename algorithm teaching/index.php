@@ -81,7 +81,7 @@
         <img src="ant.jpg" alt="Ant colony optimization algorithms" width="460" height="345">
         <div class="carousel-caption">
           <h3 style="color: orange;">Ant colony optimization algorithms</h3>
-          <p style="color: blue;">In computer science and operations research, the ant colony optimization algorithm (ACO) is a probabilistic technique for solving computational problems which can be reduced to finding good paths through graphs. Artificial Ants stand for multi-agent methods inspired by the behavior of real ants.</p>
+          <p style="color: blue;">In computer science and operations research, the (ACO) ant colony optimization is a probabilistic technique for solving computational problems which can be reduced to finding good paths through graphs. Artificial Ants stand for multi-agent methods inspired by the behavior of real ants.</p>
         </div>
       </div>
 

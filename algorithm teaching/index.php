@@ -49,7 +49,7 @@
           <li><a href="sortings/">Sortings Algorithms</a></li>
         </ul>
       </li>
-      <li><a href="#">About Us</a></li>
+      <li><a href="#">Learn About Us</a></li>
       <li><a href="logout.php">Logout</a></li>
     </ul>
   </div>

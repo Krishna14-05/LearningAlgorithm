@@ -1,4 +1,4 @@
 # LearningAlgorithm
-Here you will get to learn hectic algorithm's in very easy way .
+Here you will get to learn hectic algorithm's in very easy and fun way .
 This project will take basic biological algorithms and convert them into interactive web applications which can be used by anyone. It will make the users experience very productive and effective using a game like method of teaching. The aim of this project is to create easy , accessible and affective tools for teaching basic biological algorithms .These teaching tools are to be developed using computer code (mainly python, JavaScript).
 The major objective here is to make a very easy accessible way to teach algorithms to students/tutors/web developers etc. who might not have little to no idea of biology any related concepts. There are different categories of algorithms making a process of understanding these algorithms which makes it much complex to understand so at its full capacity this project aims on segregating as per their function and purpose.
